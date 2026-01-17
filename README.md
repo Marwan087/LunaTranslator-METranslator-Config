@@ -9,7 +9,7 @@ This repository contains a customized configuration script (`selfbuild.py`) that
 
 ## 🔗 Related Projects
 
-- **METranslator:** [https://github.com/yourusername/METranslator](https://github.com/yourusername/METranslator)
+- **METranslator:** [https://github.com/Marwan087/METranslator](https://github.com/Marwan087/METranslator)
 - **LunaTranslator:** [https://github.com/HIllya51/LunaTranslator](https://github.com/HIllya51/LunaTranslator)
 
 ## 🚀 Installation
