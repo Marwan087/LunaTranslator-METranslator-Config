@@ -1,6 +1,6 @@
 # LunaTranslator-METranslator-Config
 
- LunaTranslator Integration for METranslator
+## LunaTranslator Integration for METranslator
 
 This repository contains a customized configuration script (`selfbuild.py`) that enables seamless integration between **METranslator** and **LunaTranslator**.
 
